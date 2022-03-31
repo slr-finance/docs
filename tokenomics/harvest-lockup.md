@@ -8,13 +8,7 @@ You can check the harvest lockup on each pool page.
 
 в случае вывода депозита до окончания периода блокировки будет удержена комиссия.&#x20;
 
-Before the end of lockup period the deposit can be withdrawan with 50% fee
-
-This the will be transferd to MilkyWay protocol
-
-Например за&#x20;
-
-преждевременный вывод из [neptune](https://app.slr.finance/pool/neptune) будет удержена комиссия 50%. Эта комиссия будет отправлена в протокол MilkyWay
+For example, before the end of lockup period in [neptune](https://app.slr.finance/pool/neptune) pool the deposit can be withdrawan with 50% fee. This the will be transferd to MilkyWay protocol.
 
 {% content-ref url="milkyway.md" %}
 [milkyway.md](milkyway.md)
