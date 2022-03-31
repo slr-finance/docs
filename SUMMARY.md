@@ -6,7 +6,7 @@
 
 * [SLR token](tokenomics/slr-token.md)
 * [MilkyWay](tokenomics/milkyway.md)
-* [Staking Lockup](tokenomics/harvest-lockup.md)
+* [Harvest Lockup](tokenomics/harvest-lockup.md)
 * [Referral Program](tokenomics/referral-program.md)
 
 ## Fundamentals
