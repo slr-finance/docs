@@ -11,21 +11,15 @@ SlrFinance is automatic liquidity acquisition yield farm and DeFi 3.0 running on
 
 ### Automatic Liquidity <a href="#automatic-liquidity" id="automatic-liquidity"></a>
 
-Each transfer of SLR must pay a 10% transfer tax. The 9% transfer tax gets added to the liquidity pool through the contract automatically to raise the price floor continuously. And the liquidity will be locked and inaccessible.
+Each transfer of SLR must pay a 10% transfer tax. The 9% transfer tax gets added to the MilkyWay protocol to raise the price floor continuously.
 
-{% content-ref url="tokenomics/automatic-liquidity.md" %}
-[automatic-liquidity.md](tokenomics/automatic-liquidity.md)
+Liquidity can never be dried up because it's owned by the MilkyWay protocol from the Buyback & burn to Liquidity process. MilkyWay uses the accumulated tokens in over farms, and uses the received profit to Buyback & burn to Liquidity.
+
+{% content-ref url="tokenomics/milkyway.md" %}
+[milkyway.md](tokenomics/milkyway.md)
 {% endcontent-ref %}
 
-### DeFi 3.0 <a href="#automatic-liquidity" id="automatic-liquidity"></a>
 
-Liquidity can never be dried up because it's owned by the MilkyWay protocol from the Buyback & burn to Liquidity process. MilkyWay uses the accumulated tokens in other profit generation protocols, and uses the received profit to Buyback & burn to Liquidity.
-
-
-
-{% content-ref url="features/defi-3.0.md" %}
-[defi-3.0.md](features/defi-3.0.md)
-{% endcontent-ref %}
 
 ### Harvest Lockup <a href="#harvest-lockup" id="harvest-lockup"></a>
 
