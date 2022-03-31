@@ -33,13 +33,17 @@ Harvest lockup is a unique rewards lockup mechanism used to limit the frequency 
 
 An on-chain referral program has been implemented to incentivize users to invite friends to join the farming. Inviters can earn 10% of his/her friends' earnings and 1% of each his/her friends' transfer of SLR forever.
 
-{% content-ref url="features/referral-program.md" %}
-[referral-program.md](features/referral-program.md)
+{% content-ref url="tokenomics/referral-program.md" %}
+[referral-program.md](tokenomics/referral-program.md)
 {% endcontent-ref %}
 
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals of SlrFinance to get a deeper understanding of our main features:
+
+{% content-ref url="tokenomics/slr-token.md" %}
+[slr-token.md](tokenomics/slr-token.md)
+{% endcontent-ref %}
 
 {% content-ref url="fundamentals/roadmap.md" %}
 [roadmap.md](fundamentals/roadmap.md)

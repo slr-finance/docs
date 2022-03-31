@@ -2,17 +2,13 @@
 
 * [SLR.Finance Overview](README.md)
 
-## Features
-
-* [Referral Program](features/referral-program.md)
-* [DeFi 3.0](features/defi-3.0.md)
-
 ## Tokenomics
 
 * [SLR token](tokenomics/slr-token.md)
 * [MilkyWay](tokenomics/milkyway.md)
 * [Token distribution](tokenomics/token-distribution.md)
 * [Harvest Lockup](tokenomics/harvest-lockup.md)
+* [Referral Program](tokenomics/referral-program.md)
 
 ## Fundamentals
 

@@ -2,6 +2,7 @@
 description: >-
   MilkyWay uses farming profits to regularly buy $SLR and $BNB, then "burn" them
   to liquidity.
+coverY: 0
 ---
 
 # MilkyWay
