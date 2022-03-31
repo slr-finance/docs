@@ -6,6 +6,8 @@ For example, the staking lockup of the [neptune](https://app.slr.finance/pool/ne
 
 You can check the harvest lockup on each pool page.
 
-{% hint style="info" %}
+в случае вывода депозита до окончания периода блокировки будет удержена комиссия. Например за преждевременный вывод из [neptune](https://app.slr.finance/pool/neptune) будет удержена комиссия 50%. Эта комиссия будет отправлена в протокол MilkyWay
 
-{% endhint %}
+{% content-ref url="milkyway.md" %}
+[milkyway.md](milkyway.md)
+{% endcontent-ref %}
