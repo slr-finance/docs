@@ -30,11 +30,12 @@
 * [Emergency Withdraw](contracts/emergency-withdraw.md)
 * [Audits](contracts/audits.md)
 
+## Buy/Sell crypto
+
+* [Sell SLR for fiat](buy-sell-crypto/sell-slr-for-fiat.md)
+* [Mercuryo](buy-sell-crypto/mercuryo.md)
+* [Binance](buy-sell-crypto/binance.md)
+
 ## Support
 
 * [Contacts](support/contacts.md)
-
-## Buy/Sell crypto
-
-* [Mercuryo](buy-sell-crypto/mercuryo.md)
-* [Binance](buy-sell-crypto/binance.md)
