@@ -33,3 +33,8 @@
 ## Support
 
 * [Contacts](support/contacts.md)
+
+## Buy/Sell crypto
+
+* [Mercuryo](buy-sell-crypto/mercuryo.md)
+* [Binance](buy-sell-crypto/binance.md)
