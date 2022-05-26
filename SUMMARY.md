@@ -7,14 +7,14 @@
 * [SLR token](tokenomics/slr-token.md)
 * [MilkyWay](tokenomics/milkyway.md)
 * [Harvest Lockup](tokenomics/harvest-lockup.md)
-* [Referral Program](tokenomics/referral-program.md)
 
 ## Fundamentals
 
+* [Roadmap](fundamentals/roadmap.md)
 * [Presale](fundamentals/presale.md)
 * [Airdrop](fundamentals/airdrop.md)
-* [Roadmap](fundamentals/roadmap.md)
 * [Launch](fundamentals/launch.md)
+* [Referral Program](fundamentals/referral-program.md)
 
 ## Using the website
 
