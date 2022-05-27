@@ -17,4 +17,10 @@ Address: `0x0`\
 ## Solar Staking
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) [Source](https://github.com)
+``[BscScan](https://bscscan.com) [Source](https://github.com)\
+\
+
+
+{% content-ref url="audits.md" %}
+[audits.md](audits.md)
+{% endcontent-ref %}
