@@ -25,7 +25,16 @@ Address: `0x0`\
 {% endhint %}
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/StakingService.sol)\
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/StakingService.sol)
+
+## Referral
+
+{% hint style="warning" %}
+&#x20;Do not sent any tokens directly Referral contract.
+{% endhint %}
+
+Address: `0x0`\
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/PresaleService.sol)\
 \
 
 
