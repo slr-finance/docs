@@ -20,6 +20,6 @@ In the world of DeFi, buybacks are a prevalent mechanism to support price. Howev
 {% hint style="info" %}
 Black Hole Address:&#x20;
 
-0x000000000000000000000000000000000000dEaD
+`0x000000000000000000000000000000000000dEaD`
 {% endhint %}
 

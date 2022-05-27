@@ -72,7 +72,10 @@ Pancake listing and opening swap SLR presale tokens (PresaleSLR) to SLR (Officia
 
 ### Presale Contract
 
-Address: `0x0`
+{% hint style="info" %}
+Contract address:\
+`0x0`
+{% endhint %}
 
 {% content-ref url="../contracts/addresses.md" %}
 [addresses.md](../contracts/addresses.md)
