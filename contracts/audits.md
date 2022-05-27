@@ -2,13 +2,13 @@
 
 * [ ] CertiK\
   Site: [https://certik.com/](https://www.certik.com/)\
-  View: `Soon`
+  Status: `Soon`
 * [ ] RugDoc\
   Site: [https://rugdoc.io/](https://rugdoc.io/)\
-  View: `Soon`
+  Status: `Soon`
 * [ ] Techrate\
   Site: [https://techrate.org/](https://techrate.org/)\
-  View: `Soon`
+  Status: `Soon`
 * [ ] Hacken\
   Site: [https://hacken.io/](https://hacken.io/)\
-  View: `Soon`
+  Status: `Soon`
