@@ -26,8 +26,8 @@
 ## Contracts
 
 * [Addresses and Sources](contracts/addresses.md)
-* [Security](contracts/timelock.md)
 * [Emergency Withdraw](contracts/emergency-withdraw.md)
+* [Security](contracts/timelock.md)
 * [Audits](contracts/audits.md)
 
 ## Buy/Sell crypto
