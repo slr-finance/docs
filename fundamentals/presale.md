@@ -4,7 +4,7 @@
 The announcement of the swapping of presale tokens SLR (PresaleSLR) for SLR (Official Token) after the end of the presale will be published on Telegram & Twitter
 {% endhint %}
 
-1. After you bought $CERBERUS presale token, just HOLD it until presale end (14:00 GMT, Wednesday, 26th May 2021)
+1. After you bought SLR presale token (PresaleSLR), just **hold** it until presale end (14:00 GMT, Wednesday, 26th May 2021)
 2. **The only way to buy** SLR presale tokens (PresaleSLR) is on [app.slr.finance/presale](https://app.slr.finance/presale)
 3. **Only after presale end, you can swap** your SLR presale tokens (PresaleSLR) to the SLR (Official Token) at the 1:1 ratio.
 4. You can go to [app.slr.finance/referrals](https://slr-finance-ui-git-presale-slr-finance.vercel.app/referral) to get referrals link and refer your friend to presale to get 1% of their presale deposit.
@@ -72,7 +72,7 @@ Pancake listing and opening swap SLR presale tokens (PresaleSLR) to SLR (Officia
 
 ### Presale Contract
 
-`0x50c19C466f7C6e2794dC0F4e5De942a223A6eA5E`
+Address: `0x0`
 
 {% content-ref url="../contracts/addresses.md" %}
 [addresses.md](../contracts/addresses.md)
