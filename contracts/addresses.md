@@ -7,7 +7,7 @@
 {% endhint %}
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) [Source](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/PresaleService.sol)
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/PresaleService.sol)
 
 ## Solar Token (SLR)
 
@@ -16,7 +16,7 @@ Address: `0x0`\
 {% endhint %}
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) [Source](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/SolarToken.sol)
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/SolarToken.sol)
 
 ## Solar Staking
 
@@ -25,7 +25,7 @@ Address: `0x0`\
 {% endhint %}
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) [Source](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/StakingService.sol)\
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/StakingService.sol)\
 \
 
 
