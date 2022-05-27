@@ -1,6 +1,6 @@
 # Addresses
 
-## Presale Contract
+## Presale
 
 {% hint style="warning" %}
 &#x20;Do not use exchange accounts or don't sent BNB directly presale contract.
@@ -14,7 +14,7 @@ Address: `0x0`\
 Address: `0x0`\
 ``[BscScan](https://bscscan.com) [Source](https://github.com)
 
-## Staking
+## Solar Staking
 
 Address: `0x0`\
 ``[BscScan](https://bscscan.com) [Source](https://github.com)
