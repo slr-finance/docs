@@ -34,7 +34,7 @@ Address: `0x0`\
 {% endhint %}
 
 Address: `0x0`\
-``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/PresaleService.sol)\
+``[BscScan](https://bscscan.com) | [Source (github)](https://github.com/slr-finance/slr-finance-contracts/blob/master/contracts/ReferralService.sol)\
 \
 
 
