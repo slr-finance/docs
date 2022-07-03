@@ -2,13 +2,13 @@
 
 * [SLR.Finance Overview](README.md)
 
-## Tokenomics
+## 💸 Tokenomics
 
 * [SLR token](tokenomics/slr-token.md)
 * [MilkyWay](tokenomics/milkyway.md)
 * [Harvest Lockup](tokenomics/harvest-lockup.md)
 
-## Fundamentals
+## ☀ Fundamentals
 
 * [Roadmap](fundamentals/roadmap.md)
 * [Presale](fundamentals/presale.md)
@@ -18,28 +18,29 @@
 
 ## Using the website
 
-* [Buy SLR](using-the-website/buy-slr.md)
-* [Stake Your SLR](using-the-website/stake-your-slr.md)
-* [Migrate Your Staked SLR](using-the-website/migrate-your-staked-slr.md)
-* [Withdrawal Your Staked SLR](using-the-website/withdrawal-your-staked-slr.md)
+* [🔀 Swap SLR](using-the-website/buy-slr.md)
+* [▶ Stake Your SLR](using-the-website/stake-your-slr.md)
+* [⏭ Migrate Your Staked SLR](using-the-website/migrate-your-staked-slr.md)
+* [↩ Withdrawal Your Staked SLR](using-the-website/withdrawal-your-staked-slr.md)
 
-## Contracts
+## 📄 Contracts
 
 * [Addresses and Sources](contracts/addresses.md)
 * [Emergency Withdraw](contracts/emergency-withdraw.md)
 * [Security](contracts/timelock.md)
 * [Audits](contracts/audits.md)
 
-## Buy/Sell crypto
+## 📈 Buy/Sell crypto
 
 * [Sell SLR for fiat](buy-sell-crypto/sell-slr-for-fiat.md)
 * [Mercuryo](buy-sell-crypto/mercuryo.md)
 * [Binance](buy-sell-crypto/binance.md)
 
+## CONTRIBUTING
+
+* [👨👩👧👦 Contributor Program](contributing/contributor-program.md)
+* [🐞 Bug Bounty](contributing/bug-bounty.md)
+
 ## Support
 
-* [Contacts](support/contacts.md)
-
-***
-
-* [🐞 Bug Bounty](bug-bounty.md)
+* [📫 Contacts](support/contacts.md)

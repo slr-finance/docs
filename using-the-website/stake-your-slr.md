@@ -1,2 +1,2 @@
-# Stake Your SLR
+# ▶ Stake Your SLR
 

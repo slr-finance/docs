@@ -1,2 +1,2 @@
-# Buy SLR
+# 🔀 Swap SLR
 
