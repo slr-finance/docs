@@ -39,3 +39,7 @@
 ## Support
 
 * [Contacts](support/contacts.md)
+
+***
+
+* [🐞 Bug Bounty](bug-bounty.md)
